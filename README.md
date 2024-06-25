@@ -1,6 +1,5 @@
 # Rov
 
-## Overview
 The ROV Project is an advanced underwater vehicle designed for specific purposes like exploration, data collection, and environmental monitoring, It is equipped with computer vision capabilities for particular tasks like object detection, and navigation.
 
 ## Installation
