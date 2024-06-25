@@ -35,5 +35,5 @@ The motivation behind this project is to create a versatile and robust tool for 
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rov-project.git
-   cd rov-project
+   git clone https://github.com/omarghazy56/ROV.git
+   cd ROV
