@@ -31,6 +31,7 @@ The motivation behind this project is to create a versatile and robust tool for 
    - OpenCV
    - NumPy
    - PyGame
+   
 2. **Ardino**
    - Ethernet
 
