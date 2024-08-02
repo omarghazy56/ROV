@@ -10,7 +10,7 @@ def find_shape(shape_list):
     else:
         return "Rectangle"
         
-img = cv2.imread(r"C:\Users\Ghazy\AppData\Local\Programs\Python\Python39\images\shapes.jpg", cv2.IMREAD_GRAYSCALE)
+img = cv2.imread(r"shapes.jpg", cv2.IMREAD_GRAYSCALE)
 cv2.imshow("shapes", img)
 _, threshold = cv2.threshold(img, 240, 255, cv2.THRESH_BINARY)
 contours, _ = cv2.findContours(threshold, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
