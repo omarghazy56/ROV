@@ -27,10 +27,12 @@ The motivation behind this project is to create a versatile and robust tool for 
 
 ## Installation
 ### Prerequisites
-- Python 
+1. **python**
 - OpenCV
 - NumPy
 - PyGame
+2. **Ardino**
+- Ethernet
 
 ### Steps
 1. **Clone the repository:**
