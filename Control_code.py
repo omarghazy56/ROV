@@ -136,10 +136,9 @@ for i in range(num):
     time.sleep(x)
     print("="*40)
     time.sleep(x)
-while(1):
+while (1):
     Axes()
     time.sleep(x)
     Buton()
     time.sleep(x)
     pygame.event.pump()
-    
