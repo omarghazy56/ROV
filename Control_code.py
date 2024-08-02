@@ -81,7 +81,7 @@ def hat():
 
 print("="*40)
 time.sleep(x)
-print(termcolor.colored(pyfiglet.figlet_format("OSAMA"), color="blue"))
+print(termcolor.colored(pyfiglet.figlet_format("ROV"), color="blue"))
 print("="*40)
 time.sleep(x)
 num_Of_Joy()
